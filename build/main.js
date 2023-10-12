@@ -1,0 +1,1 @@
+(()=>{var n=document.createElement("div");n.innerHTML=(10,new Array(10).fill(1).map((function(n,e){return"Hello ".concat(e+1)}))).join("<br/>"),document.body.append(n)})();
